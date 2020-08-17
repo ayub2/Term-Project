@@ -4,7 +4,7 @@ Term Project
         1. Ahmed Ayub Mohamed -1737641
         2. Ahmad Nasali - 1815091
         3. Conde Lancine - 1729355
-        4. Muhammad Syazwani Bin Azman - 1822127
+        4. Muhammad Syazwan Bin Azman - 1822127
         
 Introduction;
 
